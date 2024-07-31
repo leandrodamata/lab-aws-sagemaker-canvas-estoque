@@ -10,7 +10,8 @@ Antes de começar, para realizar os mesmos passos desse projeto, certifique-se d
 
 -   Dentro do SageMaker Canvas selecionei a opção "Build a custom Project" para criar um modelo personalizado.
 -   Dentre as opções disponíveis, visando realizar uma análise de previsão de estoque, selecionei o modelo "Predictive analysis", ou seja, análise preditiva.
--   Com um dataset já preparado em csv, https://github.com/leandrodamata/lab-aws-sagemaker-canvas-estoque/blob/main/datasets/dataset-1000-com-preco-variavel-e-renovacao-estoque.csv, fui em "Create dataset" e fiz o upload do meu dataset.
+-   Com um dataset já preparado em csv, Dataset: https://github.com/leandrodamata/lab-aws-sagemaker-canvas-estoque/blob/main/datasets/dataset-1000-com-preco-variavel-e-renovacao-estoque.csv.
+-   Fui em "Create dataset" e fiz o upload do meu dataset.
 
 ### 2. Construindo/treinando o modelo
 
